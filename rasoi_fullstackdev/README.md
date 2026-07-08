@@ -15,4 +15,8 @@
         - auto recepit generator that allows for the cleint to receive a recipt as soon as theur order is marked picked up by them
         - a chat feature that allows the customer and admin to chat about customizations and other thigns about the order.
     
-    - clean modern apple style UI 
+    - clean modern apple style UI
+
+2. Backend:
+    - auth layer for password verification for each user
+
